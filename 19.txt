@@ -1,0 +1,4 @@
+class TransactionPool:
+    def __init__(self):
+        # Initialize transaction pool
+        pass
